@@ -16,15 +16,16 @@ A Flutter-based frontend UI project that provides features like:
 
 Tech Stack: Flutter and dart
 
-<img width="300" height="300" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/e1e8b987-8a82-488f-a1a2-23c01f36cf44" />
-<img width="300" height="300" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/52f9fd6e-f9d1-42c3-9e66-e02434c0fcc6" />
-<img width="300" height="300" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/5267b17f-a527-4294-a53c-87d995549887" />
-<img width="300" height="300" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/563ba0ed-d363-484d-9765-0f691976fb5d" />
-<img width="300" height="300" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/a5ce8e68-dca3-4b04-bf5a-97199e18067c" />
-<img width="300" height="300" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/e1b5972d-af44-4e2d-9f2a-0259f1f5d77d" />
-<img width="300" height="300" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/37e47438-d002-4b9d-afbb-41e7086e7c7e" />
-<img width="300" height="300" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/77ebc7f9-e112-4301-b1e2-433f56f78771" />
-<img width="300" height="300" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/10736fc9-faf1-43de-a20b-857c20c85eb4" />
+<img width="300" height="400" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/e1e8b987-8a82-488f-a1a2-23c01f36cf44" />
+<img width="300" height="400" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/52f9fd6e-f9d1-42c3-9e66-e02434c0fcc6" />
+<img width="300" height="400" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/5267b17f-a527-4294-a53c-87d995549887" />
+<img width="300" height="400" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/563ba0ed-d363-484d-9765-0f691976fb5d" />
+<img width="300" height="400" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/a5ce8e68-dca3-4b04-bf5a-97199e18067c" />
+<img width="300" height="400" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/e1b5972d-af44-4e2d-9f2a-0259f1f5d77d" />
+<img width="300" height="400" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/37e47438-d002-4b9d-afbb-41e7086e7c7e" />
+<img width="300" height="400" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/77ebc7f9-e112-4301-b1e2-433f56f78771" />
+<img width="300" height="400" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/10736fc9-faf1-43de-a20b-857c20c85eb4" />
+
 
 
 
