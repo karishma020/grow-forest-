@@ -3,10 +3,14 @@
 Grow forest
 
 A Flutter-based frontend UI project that provides features like:
-1) Dashboard with visual insights
+1)Dashboard with visual insights
+
 2)Activity logging form
+
 3)Tips and AI recommendations
+
 4)Challenges page with progress tracking
+
 5)Modern Flutter UI design
 
 Tech Stack: Flutter and dart
@@ -20,4 +24,5 @@ Tech Stack: Flutter and dart
 <img width="553" height="1008" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/37e47438-d002-4b9d-afbb-41e7086e7c7e" />
 <img width="571" height="1002" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/77ebc7f9-e112-4301-b1e2-433f56f78771" />
 <img width="537" height="995" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/10736fc9-faf1-43de-a20b-857c20c85eb4" />
+
 
